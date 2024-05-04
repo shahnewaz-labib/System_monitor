@@ -30,13 +30,13 @@ ____
  
 ```sh
 $ cmd
-$ git clone https://github.com/BEPb/python-bot
-$ cd python-bot
+$ git clone https://github.com/BEPb/System_monitor.git
+$ cd System_monitor
 ```
  
 ### Install the necessary packages (Install dependencies)
 ```sh
-$    -r requirements.txt
+$pip install -r requirements.txt
 ```
 
 ## Usage
